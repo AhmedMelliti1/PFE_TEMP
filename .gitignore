@@ -1,0 +1,16 @@
+# Dossiers du PFE à ignorer
+node_red_data/
+docs/
+DataCollect/
+
+# Ignorer les fichiers temporaires Python et les environnements virtuels
+__pycache__/
+venv/
+venv2/
+*.pyc
+
+# Ignorer la configuration de l'éditeur (VS Code)
+.vscode/
+
+# Optionnel : Ignorer le modèle IA s'il est trop lourd (sinon laissez-le)
+# *.pkl

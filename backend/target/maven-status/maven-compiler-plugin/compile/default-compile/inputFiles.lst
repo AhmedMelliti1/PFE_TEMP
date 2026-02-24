@@ -1,0 +1,11 @@
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\config\RestTemplateConfig.java
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\controller\EnergyController.java
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\entity\EnergyReading.java
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\entity\PredictionRequest.java
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\entity\WeatherReading.java
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\repository\EnergyReadingRepository.java
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\repository\WeatherRepository.java
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\SbemsApplication.java
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\service\FeatureEngineeringService.java
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\service\KafkaConsumerService.java
+C:\Users\Ahmed\OneDrive\Bureau\Nouveau dossier (2)\PFE_TEMP-main\PFE_TEMP-main\backend\src\main\java\com\madar\sbems\service\MlService.java

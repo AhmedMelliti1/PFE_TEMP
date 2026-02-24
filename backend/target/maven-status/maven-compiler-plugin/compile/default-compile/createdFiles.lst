@@ -1,0 +1,7 @@
+com\madar\sbems\repository\WeatherRepository.class
+com\madar\sbems\controller\EnergyController.class
+com\madar\sbems\entity\PredictionRequest.class
+com\madar\sbems\entity\WeatherReading.class
+com\madar\sbems\service\FeatureEngineeringService.class
+com\madar\sbems\service\MlService.class
+com\madar\sbems\config\RestTemplateConfig.class
